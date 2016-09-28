@@ -1,6 +1,6 @@
 # alchemyapi_node #
 
-A software development kit (sdk) for AlchemyAPI using Node.js
+A software development kit (sdk) for AlchemyAPI using Node.js - **_Please note that this legacy AlchemyAPI SDK is no longer supported by IBM. Please use the Watson SDKs https://github.com/watson-developer-cloud?utf8=✓&query=sdk_**
 
 
 ## AlchemyAPI ##
